@@ -39,7 +39,7 @@ function CommentsSection() {
     }
 
     return (
-        <Container>
+        <Container className='mb-3'>
 
             <h2>Коментарі</h2>
             <ul>
